@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....India.<br><br>- 🔭 I’m currently pursuing my  Masters in Computer Science from Northwest Missouri State University...<br>- 📚 I'm currently Learning different aspects of coding and web application development and willing to learn and help with any projects...<br>- ⚡ In my free time I love to sketch and play a lot ;)</p>
+<p align="left">I'm ... from ....India.<br><br>- 🔭 I’m currently pursuing my  Masters in Computer Science from Northwest Missouri State University...<br>- 📚 and currently Learning different aspects of coding and web application development and willing to learn and help with any projects...<br>- ⚡ In my free time I love to sketch and play a lot ;)</p>
 
 ###
 
@@ -54,6 +54,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :<br>*Worked in WNS in which I outsourced to Delta Airlines as a Sr. Associate.<br>*completed my Bachelors in electrical in 2021<br>*Did certified courses on HTML, CSS, JavaScript.</h3>
+<h3 align="left">🔥   My Stats :<br>*Persuing my Masters in Applied Computer Science from Northwest Missouri State University.<br>*Worked in WNS in which I outsourced to Delta Airlines as a Sr. Associate.<br>*completed my Bachelors in electrical in 2021<br>*Did certified courses on HTML, CSS, JavaScript.</h3>
 
 ###
