@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail Logo" />
 </a>
 
- <a href="[https://www.instagram.com/kartikeyadatta3/]" target="_blank" rel="noopener noreferrer">
+ <a href="[[https://www.instagram.com/kartikeyadatta3/]](https://www.instagram.com/kartikeyadatta3/)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram Logo" />
 </a>
 
