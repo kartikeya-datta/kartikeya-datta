@@ -35,9 +35,10 @@
 
 ###
 
-<p align="left">I'm a recent graduate from Northwest Missouri State University, India.<br><br>
-- 🔭 I’ve recently completed my Masters in Computer Science from Northwest Missouri State University and am actively seeking opportunities as a Machine Learning Engineer or Generative AI Engineer.<br>
-- 📚 I’m passionate about learning different aspects of coding, machine learning, and web application development. I’m eager to contribute to projects and enhance my skills in these fields.<br>- ⚡ In my free time I love to sketch and play a lot ;)</p>
+<p align="left">I'm Kartikeya Datta, a passionate Software Engineer with 3 years of experience in full-stack software development. I specialize in designing scalable back-end systems and building dynamic front-end applications using Java, Spring Boot, ReactJS, and AngularJS. I have a strong background in microservices, cloud technologies, and DevOps practices, leveraging tools like Docker, Kubernetes, and AWS for efficient deployments.<br><br>
+- 🔭Recent Computer Science Master’s graduate from Northwest Missouri State University, actively pursuing roles as a Full Stack Web Developer, with a strong interest in Machine Learning and Generative AI..<br>
+- 📚 I'm passionate about exploring various facets of coding, from web application development to machine learning. I'm always eager to contribute to meaningful projects and continuously grow my skills in these areas.
+⚡ Outside of tech, I enjoy sketching and love to unwind with a good game session ;)</p>
 
 ###
 
