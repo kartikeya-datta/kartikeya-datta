@@ -3,7 +3,7 @@
 </div>--->
 
 ###
-<!-- <div align="center">
+<div align="center">
   <a href="[https://yourstruly-z5mw.vercel.app/](https://yourstruly.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram Logo" />
  </a>
 
-</div> -->
+</div>
 
 ###
 
