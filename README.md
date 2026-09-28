@@ -49,9 +49,9 @@
 
 I enjoy working with technologies like Java, Python, React, Spring Boot, REST APIs, and cloud platforms to build reliable and scalable applications. I'm also passionate about AI and Generative AI, software performance, automation, and improving overall system quality and reliability.
 
-🎓 M.S. in Computer Science from Northwest Missouri State University<br>
+🎓 M.S. in Computer Science from Northwest Missouri State University
 
-- 📚 I'm passionate about exploring various facets of coding, from Testing to machine learning. I'm always eager to contribute to meaningful projects and continuously grow my skills in these areas.<br>
+- 📚 I'm passionate about exploring various facets of coding, from Testing to machine learning. I'm always eager to contribute to meaningful projects and continuously grow my skills in these areas.
 ⚡ Outside of tech, I enjoy sketching and love to unwind with a good game session ;)</p>
 
 ###
