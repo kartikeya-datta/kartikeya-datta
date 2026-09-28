@@ -45,9 +45,13 @@
 
 ###
 
-<p align="left">I'm Kartikeya Datta, a passionate Software Engineer with 3 years of experience in full-stack software development. I specialize in designing scalable back-end systems and building dynamic front-end applications using Java, Spring Boot, ReactJS, and AngularJS. I have a strong background in microservices, cloud technologies, and DevOps practices, leveraging tools like Docker, Kubernetes, and AWS for efficient deployments.<br><br>
-- 🔭Recent Computer Science Master’s graduate from Northwest Missouri State University, actively pursuing roles as a Full Stack Web Developer, with a strong interest in Machine Learning and Generative AI..<br>
-- 📚 I'm passionate about exploring various facets of coding, from web application development to machine learning. I'm always eager to contribute to meaningful projects and continuously grow my skills in these areas.
+<p align="left">I'm a Software Engineer with experience building and testing scalable cloud-native applications, AI-powered solutions, and enterprise software systems. My background spans full-stack development, backend services, quality engineering, performance testing, cloud platforms, and DevOps.
+
+I enjoy working with technologies like Java, Python, React, Spring Boot, REST APIs, and cloud platforms to build reliable and scalable applications. I'm also passionate about AI and Generative AI, software performance, automation, and improving overall system quality and reliability.
+
+🎓 M.S. in Computer Science from Northwest Missouri State University<br>
+
+- 📚 I'm passionate about exploring various facets of coding, from Testing to machine learning. I'm always eager to contribute to meaningful projects and continuously grow my skills in these areas.<br>
 ⚡ Outside of tech, I enjoy sketching and love to unwind with a good game session ;)</p>
 
 ###
