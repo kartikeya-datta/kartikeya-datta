@@ -52,6 +52,7 @@ I enjoy working with technologies like Java, Python, React, Spring Boot, REST AP
 🎓 M.S. in Computer Science from Northwest Missouri State University
 
 📚 I'm passionate about exploring various facets of coding, from Testing to machine learning. I'm always eager to contribute to meaningful projects and continuously grow my skills in these areas.<br>
+
 ⚡ Outside of tech, I enjoy sketching and love to unwind with a good game session ;)</p>
 
 ###
